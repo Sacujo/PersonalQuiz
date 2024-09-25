@@ -10,8 +10,8 @@ import UIKit
 final class ResultViewController: UIViewController {
     
     var answersChoosen: [Answer]!
-    @IBOutlet weak var animalDescriptionLabel: UILabel!
     
+    @IBOutlet weak var animalDescriptionLabel: UILabel!
     @IBOutlet weak var animalTypeLabel: UILabel!
     
     override func viewDidLoad() {
@@ -38,22 +38,12 @@ final class ResultViewController: UIViewController {
             return
         }
         updateUI(with: mostFrequentAnimal)
-        
-        }
+    }
     
-    private func updateUI(with animal: Animal) {
+    private func updateUI(
+        with animal: Animal
+    ) {
         animalTypeLabel.text = "Вы - \(animal.rawValue)"
         animalDescriptionLabel.text = animal.definition
     }
-        }
-        
-        
-        
-//        answersChoosen.forEach {
-//            print($0)
-//            let key = $0.animal
-//            dict[key] != nil ? dict[key]! += 1 : dict[key] = 1
-//        }
-//        dict.forEach { print($0) }
-//        let greatestAnimal = dict.max { a, b in a.value < b.value }
-//        return greatestAnimal?.key
+}

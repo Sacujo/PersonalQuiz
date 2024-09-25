@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "339DF24D-A127-48D8-BC25-3711FF1F4B99"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9265977F-76DB-4F52-9A20-831E91496134"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PersonalQuiz/ViewControllers/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ResultViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9265977F-76DB-4F52-9A20-831E91496134 - ab8d4797e0185d9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalQuiz.ResultViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PersonalQuiz.ResultViewController"
+                  moduleName = "PersonalQuiz.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igorguryan/Desktop/Developer/SwiftBook/PersonalQuiz/PersonalQuiz/ViewControllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "9265977F-76DB-4F52-9A20-831E91496134 - 56387e3cdbba2361"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalQuiz.ResultViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PersonalQuiz.ResultViewController"
+                  moduleName = "PersonalQuiz.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igorguryan/Desktop/Developer/SwiftBook/PersonalQuiz/PersonalQuiz/ViewControllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "9265977F-76DB-4F52-9A20-831E91496134 - d85f0c95ca72e7e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalQuiz.ResultViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PersonalQuiz.ResultViewController&gt;"
+                  moduleName = "PersonalQuiz.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igorguryan/Desktop/Developer/SwiftBook/PersonalQuiz/PersonalQuiz/ViewControllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "9265977F-76DB-4F52-9A20-831E91496134 - b24a5108e8cc6123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalQuiz.ResultViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PersonalQuiz.ResultViewController&gt;"
+                  moduleName = "PersonalQuiz.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igorguryan/Desktop/Developer/SwiftBook/PersonalQuiz/PersonalQuiz/ViewControllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
